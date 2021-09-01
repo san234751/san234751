@@ -1,4 +1,5 @@
-                                                                ## Hi there 👋
+   ## Hi there![image](https://user-images.githubusercontent.com/77527865/131619460-148956d3-eb8c-45ac-8c62-cff4fa2c798d.png)
+
 
 I am Sankit kundu, currently persuing B.Tech in electrical Engineering. Intrested in front end web development, machine learning in real life and app developing and compititive programming
 
