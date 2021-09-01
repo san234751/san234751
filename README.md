@@ -1,16 +1,19 @@
-### Hi there 👋
+                                                                ## Hi there 👋
 
-<!--
-**san234751/san234751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sankit kundu, currently persuing B.Tech in electrical Engineering. Intrested in front end web development, machine learning in real life and app developing and compititive programming
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on machine learning and deep learning in real life
+- 🌱 I’m currently learning deep learning and backend programming
+- 💬 Ask me about Programming and data structure 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+- Javascript
+- Node.js and Express
+- C and C++
+- python
+- dart and flutter
+
+### Find me at
+
+[Codechef](https://www.codechef.com/users/sank234) [Linkedin](https://www.linkedin.com/in/sankit-kundu-7677131b9/) [Codeforces](https://codeforces.com/profile/San234) [Twitter](https://twitter.com/Sankitkundu96)
