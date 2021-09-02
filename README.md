@@ -25,5 +25,5 @@ I am Sankit kundu, currently persuing B.Tech in electrical Engineering. Intreste
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san234751&theme=tokyonight)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=san234751.CharalambosIoannou)
-[![Github](https://img.shields.io/github/followers/san234751?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=san234751.san234751)
+[![Github](https://img.shields.io/github/followers/san234751?label=Follow&style=social)](https://github.com/san234751)
