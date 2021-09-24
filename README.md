@@ -23,7 +23,7 @@ I am Sankit kundu, currently persuing B.Tech in electrical Engineering. Intreste
 
 ![Sankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=san234751&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san234751&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san234751&theme=tokyonight&count_private=true)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=san234751.san234751)
 [![Github](https://img.shields.io/github/followers/san234751?label=Follow&style=social)](https://github.com/san234751)
