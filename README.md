@@ -6,6 +6,7 @@ I am Sankit kundu, currently persuing B.Tech in electrical Engineering. Intreste
 - 🔭 I’m currently working on machine learning and deep learning in real life
 - 🌱 I’m currently learning deep learning and backend programming
 - 💬 Ask me about Programming and data structure 
+- 📫 How to reach me sankitkundu96@gmail.com
 
 ### Languages and Tools
 
